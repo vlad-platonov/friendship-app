@@ -1,3 +1,6 @@
 spring:
   application:
     name: spring-boot-friendship-service
+
+server:
+  port: 9090
